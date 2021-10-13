@@ -9,7 +9,7 @@ testimonial_slider:
   content : "A life without friends is  worse than a nightmare.my friends who are always there for me when i am sad or crying, happy, etc.those who don't let me feel alone ,laugh at my lame jokes , play with  this noob ,handle my denseness, accepted everything of me and so much , if i can't see them with me in the end then it means i achived nothing in this life.
   ARIGATOU MINNASAN i will always cherish our friendship.
   
-Lets raise a toast with ADI , SENPAI , SPEIGAL ,DRAGONEEL , SABUN ."
+Lets raise a toast with my homies ."
 
 # slider item loop
 - name : "VINSMOKE SANJI"
